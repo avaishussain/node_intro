@@ -24,7 +24,7 @@
     "express": "^4.17.1",
     "http-status": "^1.4.2",
     "mongoose": "^5.8.11",
-    "sanitize-html": "^1.21.1"
+    "sanitize-html": "^2.3.2"
   },
   "devDependencies": {
     "chai": "^4.2.0",
